@@ -8,22 +8,22 @@ request.
 ## Models
 
 -   [adversarial_crypto](adversarial_crypto): protecting communications with
-    adversarial neural cryptography.
+    adversarial neural cryptography.使用对抗神经网络密码保护通信
 -   [adversarial_text](adversarial_text): semi-supervised sequence learning with
-    adversarial training.
+    adversarial training.使用对抗神经网络实现半监督序列学习
 -   [attention_ocr](attention_ocr): a model for real-world image text
-    extraction.
+    extraction.实用图片文字抽取OCR
 -   [audioset](audioset): Models and supporting code for use with
-    [AudioSet](http://g.co/audioset).
--   [autoencoder](autoencoder): various autoencoders.
--   [brain_coder](brain_coder): Program synthesis with reinforcement learning.
+    [AudioSet](http://g.co/audioset).audioset模型和代码使用
+-   [autoencoder](autoencoder): various autoencoders.多样自动编码
+-   [brain_coder](brain_coder): Program synthesis with reinforcement learning.增强学习程序综合体
 -   [cognitive_mapping_and_planning](cognitive_mapping_and_planning):
     implementation of a spatial memory based mapping and planning architecture
-    for visual navigation.
+    for visual navigation.基于mapping和planning架构可见图实现空间记忆
 -   [compression](compression): compressing and decompressing images using a
-    pre-trained Residual GRU network.
+    pre-trained Residual GRU network.使用预训练剩余GRU网络实现图片压缩和解压缩
 -   [cvt_text](cvt_text): semi-supervised sequence learning with cross-view
-    training.
+    training.交叉视图训练的半监督序列学习
 -   [deep_contextual_bandits](deep_contextual_bandits): code for a variety of contextual bandits algorithms using deep neural networks and Thompson sampling.
 -   [deep_speech](deep_speech): automatic speech recognition.
 -   [deeplab](deeplab): deep labeling for semantic image segmentation.
@@ -83,6 +83,6 @@ request.
 -   [transformer](transformer): spatial transformer network, which allows the
     spatial manipulation of data within the network.
 -   [vid2depth](vid2depth): learning depth and ego-motion unsupervised from
-    raw monocular video.
+    raw monocular video.从陌生单目视频进行无监督深度和帧间运动学习
 -   [video_prediction](video_prediction): predicting future video frames with
-    neural advection.
+    neural advection.基于对抗神经网络的视频要素预测
