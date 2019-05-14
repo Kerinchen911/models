@@ -25,11 +25,11 @@ request.
 -   [cvt_text](cvt_text): semi-supervised sequence learning with cross-view
     training.交叉视图训练的半监督序列学习
 -   [deep_contextual_bandits](deep_contextual_bandits): code for a variety of contextual bandits algorithms using deep neural networks and Thompson sampling.使用深度神经网络和汤普逊抽样法的上下文窃取
--   [deep_speech](deep_speech): automatic speech recognition.
--   [deeplab](deeplab): deep labeling for semantic image segmentation.
--   [delf](delf): deep local features for image matching and retrieval.
+-   [deep_speech](deep_speech): automatic speech recognition.自动语音识别
+-   [deeplab](deeplab): deep labeling for semantic image segmentation.语义图像分割标注
+-   [delf](delf): deep local features for image matching and retrieval.图像深度特征适配和检索
 -   [differential_privacy](differential_privacy): differential privacy for training
-    data.
+    data.训练数据多隐私策略
 -   [domain_adaptation](domain_adaptation): domain separation networks.
 -   [fivo](fivo): filtering variational objectives for training generative
     sequence models.
