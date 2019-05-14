@@ -56,25 +56,25 @@ request.
 -   [next_frame_prediction](next_frame_prediction): probabilistic future frame
     synthesis via cross convolutional networks.
 -   [object_detection](object_detection): localizing and identifying multiple
-    objects in a single image.
+    objects in a single image.单图片多目标识别
 -   [pcl_rl](pcl_rl): code for several reinforcement learning algorithms,
-    including Path Consistency Learning.
--   [ptn](ptn): perspective transformer nets for 3D object reconstruction.
--   [marco](marco): automating the evaluation of crystallization experiments.
--   [qa_kg](qa_kg): module networks for question answering on knowledge graphs.
+    including Path Consistency Learning带有路径一致性的算法加强程序
+-   [ptn](ptn): perspective transformer nets for 3D object reconstruction.适用3D目标重建的远景转换网络
+-   [marco](marco): automating the evaluation of crystallization experiments.结晶实验的自动化评估
+-   [qa_kg](qa_kg): module networks for question answering on knowledge graphs.基于知识图谱的问题回答网络模块
 -   [real_nvp](real_nvp): density estimation using real-valued non-volume
-    preserving (real NVP) transformations.
+    preserving (real NVP) transformations.密度估计
 -   [rebar](rebar): low-variance, unbiased gradient estimates for discrete
-    latent variable models.
--   [resnet](resnet): deep and wide residual networks.
+    latent variable models.低变化无偏梯度估计的离散变量模型
+-   [resnet](resnet): deep and wide residual networks.深广度剩余网络
 -   [seq2species](seq2species): deep learning solution for read-level taxonomic
-    classification.
+    classification.可读级别的深度学习解决方案
 -   [skip_thoughts](skip_thoughts): recurrent neural network sentence-to-vector
-    encoder.
--   [slim](slim): image classification models in TF-Slim.
+    encoder.句子到字节的修正神经网络
+-   [slim](slim): image classification models in TF-Slim.slim图片识别
 -   [street](street): identify the name of a street (in France) from an image
-    using a Deep RNN.
--   [struct2depth](struct2depth): unsupervised learning of depth and ego-motion.
+    using a Deep RNN.街道名字识别的RNN程序
+-   [struct2depth](struct2depth): unsupervised learning of depth and ego-motion.自意识的无监督学习
 -   [swivel](swivel): the Swivel algorithm for generating word embeddings.编译文字插入的变换算法
 -   [syntaxnet](syntaxnet): neural models of natural language syntax.自然语言语法的神经模型
 -   [tcn](tcn): Self-supervised representation learning from multi-view video.自监督代表从多目视频
