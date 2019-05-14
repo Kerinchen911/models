@@ -30,29 +30,29 @@ request.
 -   [delf](delf): deep local features for image matching and retrieval.图像深度特征适配和检索
 -   [differential_privacy](differential_privacy): differential privacy for training
     data.训练数据多隐私策略
--   [domain_adaptation](domain_adaptation): domain separation networks.
+-   [domain_adaptation](domain_adaptation): domain separation networks.域名分割网络
 -   [fivo](fivo): filtering variational objectives for training generative
-    sequence models.
--   [gan](gan): generative adversarial networks.
--   [im2txt](im2txt): image-to-text neural network for image captioning.
--   [inception](inception): deep convolutional networks for computer vision.
+    sequence models.过滤变化目标为训练生产序列网络
+-   [gan](gan): generative adversarial networks.生产对抗网络
+-   [im2txt](im2txt): image-to-text neural network for image captioning.图片文字提取做字幕
+-   [inception](inception): deep convolutional networks for computer vision.CV深度卷积网络
 -   [keypointnet](keypointnet): discovery of latent 3D keypoints via end-to-end
-    geometric eeasoning [[demo](https://keypointnet.github.io/)].
+    geometric eeasoning [[demo](https://keypointnet.github.io/)].通过端到端几何抽象发现潜在的3D关键点
 -   [learning_to_remember_rare_events](learning_to_remember_rare_events): a
-    large-scale life-long memory module for use in deep learning.
+    large-scale life-long memory module for use in deep learning.大比例长时间内存模块的深度学习应用
 -   [learning_unsupervised_learning](learning_unsupervised_learning): a
-    meta-learned unsupervised learning update rule.
+    meta-learned unsupervised learning update rule无监督学习
 -   [lexnet_nc](lexnet_nc): a distributed model for noun compound relationship
-    classification.
+    classification.无复合关系分类的分布式网络
 -   [lfads](lfads): sequential variational autoencoder for analyzing
-    neuroscience data.
--   [lm_1b](lm_1b): language modeling on the one billion word benchmark.
--   [lm_commonsense](lm_commonsense): commonsense reasoning using language models.
--   [maskgan](maskgan): text generation with GANs.
--   [namignizer](namignizer): recognize and generate names.
--   [neural_gpu](neural_gpu): highly parallel neural computer.
+    neuroscience data.脑神经网络分析的自动变化编码
+-   [lm_1b](lm_1b): language modeling on the one billion word benchmark.十亿基准的语言模型
+-   [lm_commonsense](lm_commonsense): commonsense reasoning using language models.常识化语言模型
+-   [maskgan](maskgan): text generation with GANs.GANS带有文本编译
+-   [namignizer](namignizer): recognize and generate names.姓名的识别编译
+-   [neural_gpu](neural_gpu): highly parallel neural computer.高平行神经网络电脑
 -   [neural_programmer](neural_programmer): neural network augmented with logic
-    and mathematic operations.
+    and mathematic operations.逻辑和数学参数处理后的神经网络
 -   [next_frame_prediction](next_frame_prediction): probabilistic future frame
     synthesis via cross convolutional networks.
 -   [object_detection](object_detection): localizing and identifying multiple
@@ -75,13 +75,13 @@ request.
 -   [street](street): identify the name of a street (in France) from an image
     using a Deep RNN.
 -   [struct2depth](struct2depth): unsupervised learning of depth and ego-motion.
--   [swivel](swivel): the Swivel algorithm for generating word embeddings.
--   [syntaxnet](syntaxnet): neural models of natural language syntax.
--   [tcn](tcn): Self-supervised representation learning from multi-view video.
+-   [swivel](swivel): the Swivel algorithm for generating word embeddings.编译文字插入的变换算法
+-   [syntaxnet](syntaxnet): neural models of natural language syntax.自然语言语法的神经模型
+-   [tcn](tcn): Self-supervised representation learning from multi-view video.自监督代表从多目视频
 -   [textsum](textsum): sequence-to-sequence with attention model for text
-    summarization.
+    summarization.序列化注意力机制文本摘要
 -   [transformer](transformer): spatial transformer network, which allows the
-    spatial manipulation of data within the network.
+    spatial manipulation of data within the network.允许空间的空间转换网络
 -   [vid2depth](vid2depth): learning depth and ego-motion unsupervised from
     raw monocular video.从陌生单目视频进行无监督深度和帧间运动学习
 -   [video_prediction](video_prediction): predicting future video frames with
