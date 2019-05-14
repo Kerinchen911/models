@@ -24,7 +24,7 @@ request.
     pre-trained Residual GRU network.使用预训练剩余GRU网络实现图片压缩和解压缩
 -   [cvt_text](cvt_text): semi-supervised sequence learning with cross-view
     training.交叉视图训练的半监督序列学习
--   [deep_contextual_bandits](deep_contextual_bandits): code for a variety of contextual bandits algorithms using deep neural networks and Thompson sampling.
+-   [deep_contextual_bandits](deep_contextual_bandits): code for a variety of contextual bandits algorithms using deep neural networks and Thompson sampling.使用深度神经网络和汤普逊抽样法的上下文窃取
 -   [deep_speech](deep_speech): automatic speech recognition.
 -   [deeplab](deeplab): deep labeling for semantic image segmentation.
 -   [delf](delf): deep local features for image matching and retrieval.
